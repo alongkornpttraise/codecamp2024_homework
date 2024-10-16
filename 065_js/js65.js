@@ -1,0 +1,1 @@
+// บรรทัดที่มี * จะพิมพ์ "Joe" ออกมา เนื่องจาก this ภายในฟังก์ชัน makeUser อ้างอิงถึง global object, และ user.ref.name จึงหมายถึง global.name ซึ่งมีค่า "Joe"

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convert Degrees to Radians</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <!-- แถบด้านบนของเว็บไซต์พร้อมโลโก้ Apple -->
+    <header>
+        <a href="https://www.apple.com" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo" id="apple-logo">
+        </a>
+        <h1>Convert Degrees to Radians</h1>
+    </header>
+
+    <!-- ส่วนเนื้อหาหลัก -->
+    <main>
+        <label for="degrees">Enter degrees:</label>
+        <input type="number" id="degrees" name="degrees" step="0.01" placeholder="Enter degrees"><br><br>
+        <button onclick="convertToRadians()">Convert</button>
+        <p id="result"></p>
+        <div id="circle">
+            <div id="radian-text"></div> <!-- แสดงมุมเรเดียน -->
+            <div id="angle-indicator"></div> <!-- ขีดสีน้ำเงิน -->
+        </div>
+        <!-- ปุ่ม Next Step เพื่อไปยังหน้าถัดไป -->
+        <button onclick="goToNextStep()">Next Step</button>
+    </main>
+
+    <!-- ส่วนท้าย -->
+    <footer>
+        <p>© 2024 Your Company Name</p>
+    </footer>
+</body>
+</html>
