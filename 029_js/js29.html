@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ticket Price</title>
+    <script src="getTicketPrice.js" defer></script>
+</head>
+<body>
+    <h1>บอกราคาบัตรคอนเสิร์ต</h1>
+    <label for="zone">กรอกชื่อ Zone (เช่น A, BB):</label>
+    <input type="text" id="zone" name="zone" maxlength="2"><br><br>
+    <button onclick="getTicketPrice()">เช็คราคา</button>
+    <p id="result"></p>
+</body>
+</html>
