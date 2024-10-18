@@ -7,7 +7,7 @@ I learned online full stack course 2024 with Software park Thailand partnership 
       https://docs.google.com/spreadsheets/d/1a0dbwuaGjSRn0oh2LJy7V-8_cbBomztA2-aJuU_OCSU/edit?gid=2141684203#gid=2141684203 
 
 
-# My Git homework source 
+# My Git homework source code
       https://github.com/alongkornpttraise/codecamp2024_homework
 
 
