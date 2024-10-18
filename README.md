@@ -16,15 +16,17 @@ I learned online full stack course 2024 with Software park Thailand partnership 
 
       
 # Push Version (Home work upload)
-      # 1  |  All html , js 1-25 homework
-      # 2  |  js 26-36 homework
-      # 3  |  js 37-80 homework
-      # 4  |  js 86-112 homework
-      # 5  |  js 113-142 homework
+
+# 1  |  All html , js 1-25 homework
+# 2  |  js 26-36 homework
+# 3  |  js 37-80 homework
+# 4  |  js 86-112 homework
+# 5  |  js 113-142 homework
 
 
 # My Bio
-    Alongkorn Sangngam (Fluke) 👨🤖☀️
-    Software engineer (IoT and software team)
-    PTT RAISE Company Limited
+
+Alongkorn Sangngam (Fluke) 👨🤖☀️
+Software engineer (IoT and software team)
+PTT RAISE Company Limited
 
