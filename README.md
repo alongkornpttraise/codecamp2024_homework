@@ -22,6 +22,7 @@ I learned online full stack course 2024 with Software park Thailand partnership 
       3  |  js 37-80 homework
       4  |  js 86-112 homework
       5  |  js 113-142 homework
+      6  |  js 144-172 homework
       
 
 # My Bio
