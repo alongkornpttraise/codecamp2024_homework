@@ -27,7 +27,7 @@ I learned online full stack course 2024 with Software park Thailand partnership 
 
 # My Bio
 
-Alongkorn Sangngam (Fluke) 👨🤖☀️
-Software engineer (IoT and software team)
-PTT RAISE Company Limited
+      Alongkorn Sangngam (Fluke) 👨🤖☀️
+      Software engineer (IoT and software team)
+      PTT RAISE Company Limited
 
